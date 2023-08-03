@@ -1,0 +1,8 @@
+com/bigstore/orderservice/model/OrderLineItens.class
+com/bigstore/orderservice/controller/OrderController.class
+com/bigstore/orderservice/repository/OrderRepository.class
+com/bigstore/orderservice/OrderServiceApplication.class
+com/bigstore/orderservice/model/Order.class
+com/bigstore/orderservice/service/OrderService.class
+com/bigstore/orderservice/dto/OrderLineItensDto.class
+com/bigstore/orderservice/dto/OrderRequest.class
